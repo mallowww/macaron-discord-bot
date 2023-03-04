@@ -2,6 +2,9 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/mallowww/macaron-bot/bot"
+	"github.com/mallowww/macaron-bot/config"
 )
 
 func main() {
